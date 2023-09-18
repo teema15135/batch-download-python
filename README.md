@@ -17,14 +17,14 @@ Program will download and save file in `output/<sub_directory_name>`
 
 Each input file content should contain url(s)
 
-#### Example:
-##### input/git-1234.txt
+### Example:
+###### input/git-1234.txt
 ```
 https://github.com/exampleAgit.png
 https://github.com/exampleBgit.png
 ```
 
-##### input/hub-sometextthatdoesntmatter.txt
+###### input/hub-sometextthatdoesntmatter.txt
 ```
 https://github.com/exampleA.jpg
 https://github.com/exampleB.png
