@@ -1,0 +1,12 @@
+{
+    "Host": "i.pximg.net",
+    "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64; rv:109.0) Gecko/20100101 Firefox/117.0",
+    "Accept": "image/avif,image/webp,*/*",
+    "Accept-Language": "en,th-TH;q=0.8,en-US;q=0.6,th;q=0.4,en-GB;q=0.2",
+    "Accept-Encoding": "gzip, deflate, br",
+    "Referer": "https://www.pixiv.net/",
+    "Sec-Fetch-Dest": "image",
+    "Sec-Fetch-Mode": "no-cors",
+    "Sec-Fetch-Site": "cross-site",
+    "Connection": "keep-alive"
+}
